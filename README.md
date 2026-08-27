@@ -4,7 +4,7 @@ Licensr is a Zed editor extension that inserts common software licenses using sn
 
 # Usage 
 
-To use Licensr, simply type `license-` followed by the license name in a comment line and press `enter` to insert the license text, for a list of all available licenses, go to the [licensr snippets](https://github.com/DankDown10256/licensr/tree/main/snippets/snippets.json) page.
+To use Licensr, simply type `license-` followed by the license name in a comment line and press `enter` to insert the license text, for a list of all available licenses, go to the [licensr snippets](https://github.com/DankDown10256/licensr/tree/master/snippets/snippets.json) page.
 
 # Contributing
 
