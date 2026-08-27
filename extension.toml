@@ -1,0 +1,8 @@
+id = "licensr"
+name = "Licensr"
+version = "0.0.1"
+schema_version = 1
+authors = ["Lucas Poupeau"]
+description = "Insert common software licenses using snippets"
+repository = "https://github.com/DankDown10256/licensr"
+snippets = ["./snippets/snippets.json"]
