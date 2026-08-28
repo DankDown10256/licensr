@@ -1,6 +1,6 @@
 id = "licensr"
 name = "Licensr"
-version = "0.0.1"
+version = "1.0.0"
 schema_version = 1
 authors = ["Lucas Poupeau"]
 description = "Insert common software licenses using snippets"
