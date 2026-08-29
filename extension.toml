@@ -1,4 +1,4 @@
-id = "licensr"
+id = "license-generator"
 name = "Licensr"
 version = "1.0.0"
 schema_version = 1
