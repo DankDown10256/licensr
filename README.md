@@ -20,4 +20,4 @@ Thanks to all users and all contributors who have helped make Licensr better!
 
 # Sources
 
-All the licenses are sourced from [opensource.org](https://opensource.org/licenses).
+All the licenses are sourced from [opensource.org](https://opensource.org/licenses)
